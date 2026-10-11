@@ -1,6 +1,6 @@
 # Velocity Tap
 
-**Mechanical keyboard sounds for Firefox.** 17 authentic sound packs from the [Neptune](https://github.com/M1ndo/Neptune) project.
+**Mechanical keyboard sounds for Firefox.** 17 authentic sound packs.
 
 ![Velocity Tap](icons/icon-128.png)
 
@@ -16,27 +16,25 @@
 
 ## Sound Packs
 
-| Pack | Release Sounds | Source |
-|------|----------------|--------|
-| NK Cream (By Kbs.Im) | ✅ | Neptune |
-| NK Cream (By MonkeyType) | ❌ | Neptune |
-| Alpacas (By kbs.im) | ✅ | Neptune |
-| Gateron Black Inks (By kbs.im) | ✅ | Neptune |
-| Blue Alps (By kbs.im) | ✅ | Neptune |
-| Kailh Box Navies (By kbs.im) | ✅ | Neptune |
-| Buckling Spring (By kbs.im) | ✅ | Neptune |
-| Cherry MX Blue | ✅ | Neptune |
-| Holy Pandas (By kbs.im) | ✅ | Neptune |
-| Cherry MX Blacks (By kbs.im) | ✅ | Neptune |
-| Cherry MX Blue (By kbs.im) | ✅ | Neptune |
-| Cherry MX Browns (By kbs.im) | ✅ | Neptune |
-| osu (by monkeytype) | ❌ | Neptune |
-| Gateron Red Inks (By kbs.im) | ✅ | Neptune |
-| Topre (By kbs.im) | ✅ | Neptune |
-| Turquoise Tealios (By kbs.im) | ✅ | Neptune |
-| Typewriter (By monkeytype) | ❌ | Neptune |
-
-All sounds © their respective creators, sourced from [M1ndo/Neptune](https://github.com/M1ndo/Neptune) (AGPL-3.0).
+| Pack | Release Sounds |
+|------|----------------|
+| NK Cream | ✅ |
+| NK Cream (MonkeyType) | ❌ |
+| Alpacas | ✅ |
+| Gateron Black Inks | ✅ |
+| Blue Alps | ✅ |
+| Kailh Box Navies | ✅ |
+| Buckling Spring | ✅ |
+| Cherry MX Blue | ✅ |
+| Holy Pandas | ✅ |
+| Cherry MX Blacks | ✅ |
+| Cherry MX Blue (alt) | ✅ |
+| Cherry MX Browns | ✅ |
+| osu! | ❌ |
+| Gateron Red Inks | ✅ |
+| Topre | ✅ |
+| Turquoise Tealios | ✅ |
+| Typewriter | ❌ |
 
 ## Installation
 
@@ -106,13 +104,12 @@ velocity-tap/
 ## License
 
 - **Extension code:** MIT License
-- **Sound assets:** From [Neptune](https://github.com/M1ndo/Neptune) (AGPL-3.0) — used with attribution
+- **Sound assets:** Bundled for personal use
 
 ## Credits
 
-- **Sound packs:** [M1ndo/Neptune](https://github.com/M1ndo/Neptune) — Go-based mechanical keyboard sound app
 - **Icon:** Custom SVG (keyboard ⌨)
-- **Inspiration:** Bucklespring, Mechvibes, and the mechanical keyboard community
+- **Inspiration:** Mechanical keyboard community
 
 ## Contributing
 
@@ -124,4 +121,3 @@ PRs welcome for:
 ## Support
 
 - **Issues:** [GitHub Issues](https://github.com/harshsp4/velocity-tap/issues)
-- **Source sounds:** [Neptune Releases](https://github.com/M1ndo/Neptune/releases)
